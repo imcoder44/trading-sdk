@@ -6,6 +6,7 @@ A Spring Boot-based Wrapper SDK for Trading APIs that provides endpoints for ins
 - [Prerequisites](#prerequisites)
 - [Setup & Installation](#setup--installation)
 - [Running the Application](#running-the-application)
+- [Swagger UI Screenshots](#️-swagger-ui-screenshots)
 - [API Documentation](#api-documentation)
 - [Sample API Usage](#sample-api-usage)
 - [Project Structure](#project-structure)
@@ -74,7 +75,17 @@ The application will start on **http://localhost:8080**
 
 ---
 
-## 📖 API Documentation
+## �️ Swagger UI Screenshots
+
+### API Overview
+![Swagger UI - Trading SDK API](docs/images/swagger-ui-1.png)
+
+### Available Endpoints
+![Swagger UI - API Endpoints](docs/images/swagger-ui-2.png)
+
+---
+
+## �📖 API Documentation
 
 ### Base URL: `http://localhost:8080/api/v1`
 
